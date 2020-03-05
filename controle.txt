@@ -1,0 +1,10 @@
+Joao_Pedro 2 0
+Maria_Paula 5 1
+Joan_Pedr0 10 2
+Guilherme_Ume 1 3
+#ESTOQUE
+TV 10 0
+Patins 50 1
+Pula_Pula 20 2
+Tênis 50 3
+Carta 10 4
